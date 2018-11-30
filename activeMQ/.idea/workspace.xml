@@ -1,0 +1,1101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da28ee79-709e-41ce-bc35-95fb69382657" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="2129353012">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="3" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>send</find>
+      <find>DEFAULT_USER</find>
+      <find>client</find>
+      <find>ws</find>
+      <find>/text</find>
+      <find>/tex</find>
+      <find>/te</find>
+      <find>/t</find>
+      <find>/</find>
+      <find>setDeliveryMode</find>
+      <find>setde</find>
+      <find>toli</find>
+      <find>setTimeToLive</find>
+      <find>close</find>
+      <find>setComm</find>
+      <find>ac</find>
+      <find>setUseAsyncSend</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/TopicSubscriber.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/spring/SendMessage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/spring/MyMessageListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/spring/QueueListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/spring/StartApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/spring/TopicListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/spring/Topic1Listener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/spring/Topic2Listener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/spring/MessageService.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/spring-context.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/test.html" />
+        <option value="$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/StompProducer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/distributedTransaction/model/EventProcess.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/distributedTransaction/application-jdbc.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/distributedTransaction/task/EventScheduledTask.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/distributedTransaction/model/Account.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/distributedTransaction/model/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/distributedTransaction/dao/AccountDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/distributedTransaction/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/distributedTransaction/service/AccountService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/distributedTransaction/service/EventService.java" />
+        <option value="$PROJECT_DIR$/src/test/java/org/study/mq/activeMQ/distributedTransaction/TestJdbc.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/distributedTransaction/application.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/org/study/mq/activeMQ/distributedTransaction/TestDT.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/distributedTransaction/dt1.sql" />
+        <option value="$PROJECT_DIR$/src/main/resources/distributedTransaction/dt2.sql" />
+        <option value="$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/distributedTransaction/constant/EventStatus.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/distributedTransaction/model/Point.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/distributedTransaction/dao/PointDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/distributedTransaction/model/Event.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/distributedTransaction/constant/EventType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/distributedTransaction/constant/EventProcess.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/distributedTransaction/dao/EventDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/distributedTransaction/listener/EventMessageListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/distributedTransaction/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/distributedTransaction/exception/BusinessException.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/distributedTransaction/service/PointService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/dt/dao/PointEventDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/dt/dao/UserEventDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/dt/listener/EventMessageListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/dt/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/dt/listener/PointMessageListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/dt/dao/BaseEventDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/dt/task/UserScheduled.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/dt/task/PointScheduled.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/dt/application.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/dt/service/UserEventService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/dt/service/PointEventService.java" />
+        <option value="$PROJECT_DIR$/src/test/java/org/study/mq/activeMQ/dt/TestDT.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="activeMQ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="activeMQ" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="activeMQ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="activeMQ" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="activeMQ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="activeMQ" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="activeMQ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="activeMQ" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="activeMQ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="activeMQ" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="org.study.mq.activeMQ" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="activeMQ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="activeMQ" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="org.study.mq.activeMQ" type="462c0819:PsiDirectoryNode" />
+              <item name="dt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="activeMQ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="activeMQ" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="org.study.mq.activeMQ" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="activeMQ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="activeMQ" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="activeMQ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="activeMQ" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="ActivemqCon&#9;FILE&#9;jar:///Users/niwei/.m2/repository/org/apache/activemq/activemq-all/5.15.2/activemq-all-5.15.2-sources.jar!/org/apache/activemq/ActiveMQConnection.java&#10;org.apache.activemq.ActiveMQSession&#9;PSI&#9;JAVA://org.apache.activemq.ActiveMQSession&#10;sc&#9;FILE&#9;file:///Users/niwei/Study/mq/activeMQ/src/main/java/org/study/mq/activeMQ/distributedTransaction/task/EventScheduledTask.java&#10;User&#9;FILE&#9;file:///Users/niwei/Study/mq/activeMQ/src/main/java/org/study/mq/activeMQ/distributedTransaction/service/UserService.java&#10;Acc&#9;FILE&#9;file:///Users/niwei/Study/mq/activeMQ/src/main/java/org/study/mq/activeMQ/distributedTransaction/service/AccountService.java&#10;pom&#9;FILE&#9;file:///Users/niwei/Study/mq/activeMQ/pom.xml&#10;StompConnection&#9;PSI&#9;JAVA://org.apache.activemq.transport.stomp.StompConnection&#10;PooledConnectionFactory&#9;FILE&#9;jar:///Users/niwei/.m2/repository/org/apache/activemq/activemq-all/5.15.2/activemq-all-5.15.2.jar!/org/apache/activemq/pool/PooledConnectionFactory.class" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543541247776" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.study.mq.activeMQ.distributedTransaction" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.study.mq.activeMQ.dt.task" />
+      <recent name="org.study.mq.activeMQ.dt.service" />
+      <recent name="org.study.mq.activeMQ.distributedTransaction.service" />
+      <recent name="org.study.mq.activeMQ.distributedTransaction.dao" />
+      <recent name="org.study.mq.activeMQ.distributedTransaction.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/distributedTransaction" />
+      <recent name="$PROJECT_DIR$/src/main/webapp" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.StartApplication">
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.study.mq.activeMQ.spring.StartApplication" />
+      <module name="activeMQ" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.study.mq.activeMQ.spring.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StompProducer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.study.mq.activeMQ.StompProducer" />
+      <module name="activeMQ" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.study.mq.activeMQ.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TopicPublisher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.study.mq.activeMQ.TopicPublisher" />
+      <module name="activeMQ" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.study.mq.activeMQ.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestDT.multiInvoke" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="activeMQ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.study.mq.activeMQ.dt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.study.mq.activeMQ.dt" />
+      <option name="MAIN_CLASS_NAME" value="org.study.mq.activeMQ.dt.TestDT" />
+      <option name="METHOD_NAME" value="multiInvoke" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDT.newUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="activeMQ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.study.mq.activeMQ.dt.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.study.mq.activeMQ.dt" />
+      <option name="MAIN_CLASS_NAME" value="org.study.mq.activeMQ.dt.TestDT" />
+      <option name="METHOD_NAME" value="newUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="activeMQ-demo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.TopicPublisher" />
+      <item itemvalue="Application.StartApplication" />
+      <item itemvalue="Application.StompProducer" />
+      <item itemvalue="JUnit.TestDT.multiInvoke" />
+      <item itemvalue="JUnit.TestDT.newUser" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StartApplication" />
+        <item itemvalue="JUnit.TestDT.newUser" />
+        <item itemvalue="JUnit.TestDT.multiInvoke" />
+        <item itemvalue="Application.StompProducer" />
+        <item itemvalue="Application.TopicPublisher" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da28ee79-709e-41ce-bc35-95fb69382657" name="Default" comment="" />
+      <created>1523264742180</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523264742180</updated>
+      <workItem from="1523264744368" duration="313000" />
+      <workItem from="1523265074734" duration="69000" />
+      <workItem from="1523268174735" duration="2496000" />
+      <workItem from="1523320955331" duration="1528000" />
+      <workItem from="1523325681702" duration="2562000" />
+      <workItem from="1523343367776" duration="3899000" />
+      <workItem from="1523352504016" duration="2790000" />
+      <workItem from="1523442118958" duration="1385000" />
+      <workItem from="1523444958425" duration="250000" />
+      <workItem from="1523491999066" duration="118000" />
+      <workItem from="1523492286871" duration="644000" />
+      <workItem from="1523497406071" duration="2359000" />
+      <workItem from="1523536026474" duration="1050000" />
+      <workItem from="1523579893139" duration="865000" />
+      <workItem from="1523598722468" duration="1051000" />
+      <workItem from="1523671336864" duration="977000" />
+      <workItem from="1523690198527" duration="393000" />
+      <workItem from="1523694267319" duration="484000" />
+      <workItem from="1523703394982" duration="141000" />
+      <workItem from="1523846130094" duration="3439000" />
+      <workItem from="1524370790628" duration="1382000" />
+      <workItem from="1524373193206" duration="3580000" />
+      <workItem from="1524385379903" duration="2305000" />
+      <workItem from="1524390238783" duration="21560000" />
+      <workItem from="1524894328804" duration="152000" />
+      <workItem from="1525071489799" duration="791000" />
+      <workItem from="1525273944628" duration="141000" />
+      <workItem from="1525683846860" duration="34000" />
+      <workItem from="1525684067810" duration="15000" />
+      <workItem from="1526181580703" duration="2812000" />
+      <workItem from="1526222515821" duration="649000" />
+      <workItem from="1526226216471" duration="235000" />
+      <workItem from="1526828562231" duration="819000" />
+      <workItem from="1526864716974" duration="8881000" />
+      <workItem from="1527057671176" duration="266000" />
+      <workItem from="1543485473374" duration="1632000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestDT_multiInvoke - 2018.04.22 at 20h 52m 30s.xml">
+      <configuration name="TestDT.multiInvoke" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDT_multiInvoke - 2018.04.22 at 20h 54m 54s.xml">
+      <configuration name="TestDT.multiInvoke" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDT_newUser - 2018.04.23 at 10h 01m 40s.xml">
+      <configuration name="TestDT.newUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDT_newUser - 2018.04.23 at 10h 04m 29s.xml">
+      <configuration name="TestDT.newUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDT_newUser - 2018.04.23 at 10h 05m 18s.xml">
+      <configuration name="TestDT.newUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDT_newUser - 2018.04.23 at 10h 08m 52s.xml">
+      <configuration name="TestDT.newUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDT_newUser - 2018.04.23 at 10h 09m 57s.xml">
+      <configuration name="TestDT.newUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDT_newUser - 2018.04.23 at 10h 13m 14s.xml">
+      <configuration name="TestDT.newUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDT_newUser - 2018.04.23 at 10h 13m 53s.xml">
+      <configuration name="TestDT.newUser" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestDT_newUser - 2018.04.23 at 15h 16m 48s.xml">
+      <configuration name="TestDT.newUser" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="72067000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13432837" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Nl-Palette" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Image Layers" order="7" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.24403471" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50053304" side_tool="true" weight="0.60737526" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Inspection Results" order="9" weight="0.32891566" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32891566" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" show_stripe_button="false" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" visible="true" weight="0.120469086" />
+      <window_info anchor="right" id="Properties" order="5" />
+      <window_info anchor="right" id="Database" order="6" show_stripe_button="false" weight="0.3297568" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.31831187" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Nl-Palette" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Image Layers" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Inspection Results" order="9" weight="0.32891566" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32891566" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" show_stripe_button="false" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.3297568" />
+      <window_info anchor="right" id="Properties" order="5" />
+      <window_info anchor="right" id="Database" order="6" show_stripe_button="false" weight="0.3297568" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="ActiveMQConnection.DEFAULT_USER" language="JAVA" />
+        <watch expression="ActiveMQConnection.DEFAULT_PASSWORD" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.2/activemq-all-5.15.2.jar!/org/springframework/jms/core/JmsTemplate.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/spring/Topic2Listener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="14" column="37" lean-forward="true" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.2/activemq-all-5.15.2-sources.jar!/org/apache/activemq/ActiveMQConnectionFactory.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/stomp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-118">
+          <caret line="460" column="11" lean-forward="true" selection-start-line="460" selection-start-column="11" selection-end-line="460" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/test.html" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.2/activemq-all-5.15.2-sources.jar!/org/apache/activemq/transport/stomp/StompConnection.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/distributedTransaction/enum/EventType.kt" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.3.10.RELEASE/spring-jdbc-4.3.10.RELEASE.jar!/org/springframework/jdbc/core/JdbcTemplate.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/spring/Topic1Listener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/spring/QueueListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="16" column="25" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/spring/MessageService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="36" column="54" lean-forward="true" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/dt/dt2.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/dt/model/Event.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/dt/model/Point.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="33" selection-start-line="33" selection-end-line="33" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/dt/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/dt/constant/EventProcess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/dt/constant/EventType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/dt/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/dt/dao/PointDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/dt/dao/BaseEventDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/dt/dao/UserEventDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/dt/dao/PointEventDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/dt/task/UserScheduled.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/dt/service/UserEventService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="43" column="51" selection-start-line="43" selection-start-column="51" selection-end-line="43" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/dt/exception/BusinessException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/dt/dt1.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/dt/task/PointScheduled.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/dt/application.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="20" column="15" lean-forward="true" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="63" column="37" selection-start-line="63" selection-start-column="37" selection-end-line="63" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/dt/listener/PointMessageListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="33" column="52" selection-start-line="33" selection-start-column="47" selection-end-line="33" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/dt/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="35" column="42" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/dt/service/PointService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/dt/service/PointEventService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/study/mq/activeMQ/dt/TestDT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.2/activemq-all-5.15.2-sources.jar!/javax/jms/ConnectionFactory.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.2/activemq-all-5.15.2-sources.jar!/javax/jms/MessageProducer.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.2/activemq-all-5.15.2-sources.jar!/javax/jms/MessageConsumer.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.2/activemq-all-5.15.2-sources.jar!/javax/jms/MessageListener.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.2/activemq-all-5.15.2-sources.jar!/javax/jms/Session.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.2/activemq-all-5.15.2-sources.jar!/javax/jms/TextMessage.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.2/activemq-all-5.15.2-sources.jar!/org/apache/activemq/ActiveMQSession.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.2/activemq-all-5.15.2-sources.jar!/javax/jms/Connection.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.2/activemq-all-5.15.2-sources.jar!/org/apache/activemq/ActiveMQConnection.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/activemq/activemq-all/5.15.2/activemq-all-5.15.2-sources.jar!/javax/jms/Message.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/TopicSubscriber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/activeMQ.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/activemq-notify.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="77" selection-start-line="20" selection-start-column="77" selection-end-line="20" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/StompProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/TopicPublisher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="554">
+          <caret line="38" column="23" selection-start-line="38" selection-start-column="23" selection-end-line="38" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/study/mq/activeMQ/spring/StartApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/spring-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="39" selection-start-line="39" selection-end-line="43" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>activeMQ</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.apache.activemq:activemq-all:5.15.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
